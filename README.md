@@ -4,7 +4,7 @@
 ![Jinhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhangjiang&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhangjiang&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhangjiang)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jinhangjiang&theme=neon-palenight&hide_border=true)
 
