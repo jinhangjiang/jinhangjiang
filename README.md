@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jinhang
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Data+Scientist+at+Walmart+Global+Tech.++++++++++)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Data+Scientist+at+Walmart+Global+Tech.++++++++++)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhangjiang&layout=compact)
 
